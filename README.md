@@ -11,10 +11,9 @@ Finalmente, se considera que la calculadora debe tener las cuatro operaciones b�
 Debe tener además un botón de reseteo.
 
 ### ELEMENTOS UTILIZADOS:
-´´´
-
+```
 - HTML
 - CSS
 - JAVASCRIPT
 
-´´´
+```
